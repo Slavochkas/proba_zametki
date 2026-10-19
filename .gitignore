@@ -1,0 +1,19 @@
+# Build outputs
+build/
+**/build/
+out/
+*.apk
+*.aab
+.gradle/
+.kotlin/
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+# Local / secrets — never commit
+local.properties
+keystore/
+keystore.properties
+*.jks
+*.keystore
